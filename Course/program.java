@@ -43,6 +43,9 @@ public class program {
         // System.out.printf("Вы ввели: " + input);
         // iScanner.close();
 
+
+        
+
     }
     
 }
